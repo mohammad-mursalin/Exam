@@ -1,0 +1,1 @@
+System.out.println("Interpolated value at f("+p+") is " +result);
